@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color:#1963b3;
+
+}
+
+
+#red {
+  color: red;
+}
+
+#orange {
+  color: orange;
+}
+
+.red {
+  color:red;
+}
+
+#jtslim{
+  height:80%
+}
